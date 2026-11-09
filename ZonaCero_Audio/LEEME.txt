@@ -1,0 +1,18 @@
+ZONA CERO - PAQUETE DE AUDIO INICIAL
+
+Archivos WAV estéreo/mono de ambiente y UI:
+01_viento_ciudad.wav  - ambiente de viento en ciudad abandonada (loop)
+02_lluvia_suave.wav   - lluvia ligera (loop)
+03_ambiente_bosque.wav - ambiente suave de bosque (loop)
+04_ui_recoger.wav    - confirmación al recoger un objeto
+05_ui_boton.wav      - clic para botones de interfaz
+
+IMPORTAR EN UNITY
+1. Crea Assets/Audio/Ambiente y Assets/Audio/UI.
+2. Copia los tres primeros WAV a Ambiente y los dos últimos a UI.
+3. Selecciona cada ambiente en Unity y activa Loop en el Inspector/Audio Import Settings.
+4. Para ambiente, crea un GameObject AudioAmbiente y añade AudioSource.
+5. Asigna un clip, activa Loop y Play On Awake, baja Volume a 0.15-0.30.
+6. Para sonidos UI, usa AudioSource con Play On Awake desactivado y llama PlayOneShot(clip) desde el evento correspondiente.
+
+Sonidos generados proceduralmente para este proyecto. Ajusta volúmenes dentro del juego.

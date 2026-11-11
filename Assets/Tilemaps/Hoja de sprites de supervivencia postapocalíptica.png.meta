@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: e2c078433cb629e45ba47fc4a5b12993
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6317818212401112000
+    second: "Hoja de sprites de supervivencia postapocal\xEDptica_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_0"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 98
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c965e1fc99258a0800000000000000
+      internalID: -6317818212401112000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_1"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 24
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e912822584cdc48ad6a0fe3ce1162a
+      internalID: 298444229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_2"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 25
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d93662e5dd47b34283168e333b67187
+      internalID: -1004911136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_3"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 28
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a170bd61eba494c91c474a2bb1d47d
+      internalID: -1345826431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_4"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 18
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90daf0a67c713840b2d7641f2f1b109
+      internalID: 77620466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_5"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 17
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24102369b2f053a478e2cef8e726b6e0
+      internalID: -1279618292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_6"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 18
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0db4c45b3f46274cacc429a48231f9c
+      internalID: 1504884384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_7"
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 22
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2f4440b2ce60b42a676f7b42a8d395
+      internalID: 1730943575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_8"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 16
+        width: 107
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0223ce88a406fd46846b103a4b74a43
+      internalID: -121553334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_9"
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 19
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372821e421f33d438fcb64e3c399a2c
+      internalID: 977342226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_10"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 14
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8a8e22ea1674a43bdbd7df29c3201d
+      internalID: 171532557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_11"
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 74
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee3f1f8ce8bbd741a5075659807121c
+      internalID: -912718154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_12"
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 16
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd2fe0c821699943bfd0d12f1e4ca04
+      internalID: 1365608280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_13"
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 79
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aaf5a565445e244bf54759c3d0e01e
+      internalID: -1497181537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_14"
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 58
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b35a25bad6d1e429f3011917f56650
+      internalID: -1962487550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de supervivencia postapocal\xEDptica_15"
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 94
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ded457924db714ba5b7ee32f8f3383
+      internalID: -156583448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9d66eb96d3309df4a823ff95da57d17d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Hoja de sprites de supervivencia postapocal\xEDptica_0": -6317818212401112000
+      "Hoja de sprites de supervivencia postapocal\xEDptica_1": 298444229
+      "Hoja de sprites de supervivencia postapocal\xEDptica_10": 171532557
+      "Hoja de sprites de supervivencia postapocal\xEDptica_11": -912718154
+      "Hoja de sprites de supervivencia postapocal\xEDptica_12": 1365608280
+      "Hoja de sprites de supervivencia postapocal\xEDptica_13": -1497181537
+      "Hoja de sprites de supervivencia postapocal\xEDptica_14": -1962487550
+      "Hoja de sprites de supervivencia postapocal\xEDptica_15": -156583448
+      "Hoja de sprites de supervivencia postapocal\xEDptica_2": -1004911136
+      "Hoja de sprites de supervivencia postapocal\xEDptica_3": -1345826431
+      "Hoja de sprites de supervivencia postapocal\xEDptica_4": 77620466
+      "Hoja de sprites de supervivencia postapocal\xEDptica_5": -1279618292
+      "Hoja de sprites de supervivencia postapocal\xEDptica_6": 1504884384
+      "Hoja de sprites de supervivencia postapocal\xEDptica_7": 1730943575
+      "Hoja de sprites de supervivencia postapocal\xEDptica_8": -121553334
+      "Hoja de sprites de supervivencia postapocal\xEDptica_9": 977342226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
